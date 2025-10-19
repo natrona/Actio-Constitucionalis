@@ -1,10 +1,10 @@
-# Praesidium  
+# Actio Constitucionalis  
 *Repositório acadêmico dedicado ao estudo dos remédios constitucionais no Direito brasileiro.*
 
 ---
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-gray)
-![Licença](https://img.shields.io/badge/Licença-Acadêmica-lightgrey)
+![Licença](https://img.shields.io/badge/Tipo-Acadêmico-lightgrey)
 ![Área](https://img.shields.io/badge/Área-Direito%20Constitucional-black)
 ![Idioma](https://img.shields.io/badge/Idioma-Português%20(BR)-blue)
 
@@ -12,8 +12,8 @@
 
 ## Sobre
 
-**Praesidium** é um repositório acadêmico voltado à sistematização e ao estudo dos remédios constitucionais previstos na Constituição Federal do Brasil.  
-Seu objetivo é reunir, de forma teórica e metodológica, conteúdos que contribuam para a compreensão dos instrumentos de proteção dos direitos fundamentais.
+**Actio-Constitucionalis** é um repositório acadêmico voltado à análise e à sistematização dos remédios constitucionais previstos na Constituição Federal.  
+Tem como finalidade reunir conteúdo teórico e metodológico que contribua para o entendimento dos instrumentos de proteção aos direitos fundamentais e do controle de constitucionalidade.
 
 ---
 
@@ -21,6 +21,28 @@ Seu objetivo é reunir, de forma teórica e metodológica, conteúdos que contri
 
 - Conceitos e fundamentos teóricos  
 - Base constitucional e jurisprudencial  
+- Finalidade e hipóteses de cabimento  
+- Aspectos processuais e procedimentais  
+- Sínteses analíticas e observações acadêmicas  
+
+---
+
+## Objetivo
+
+Consolidar um acervo acadêmico voltado à pesquisa e ao aprofundamento do **Direito Constitucional**, promovendo o estudo crítico e sistemático dos mecanismos de tutela jurisdicional e das garantias fundamentais.
+
+---
+
+## Natureza Acadêmica
+
+O material aqui apresentado possui **finalidade exclusivamente acadêmica**.  
+Destina-se ao uso em atividades de estudo, pesquisa e reflexão no campo do Direito, não possuindo caráter comercial nem consultivo.
+
+---
+
+## Licença
+
+Material de uso **acadêmico e não comercial**, disponível para consulta e citação mediante preservação da integridade e atribuição da fonte original.- Base constitucional e jurisprudencial  
 - Finalidade e hipóteses de cabimento  
 - Aspectos processuais e procedimentais  
 - Sínteses analíticas e referências doutrinárias  
